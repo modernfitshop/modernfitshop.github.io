@@ -1,11 +1,10 @@
 ---
-title: "corporatefinancethecoreglobaledition  | 중고CD) Emerson Lake & Palmer (에머슨 레이크 앤 파머) – Brain Salad Surgery (A급 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'corporatefinancethecoreglobaledition  | 중고CD) Emerson Lake & Palmer (에머슨 레이크 앤 파머) – Brain Salad Surgery (A급 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "corporatefinancethecoreglobaledition--중고CD-Emerson-Lake--Palmer-에머슨-레이크-앤-파머--Brain-Salad-Surgery-A급-"
-author: Moon
+slug: 'corporatefinancethecoreglobaledition--중고CD-Emerson-Lake--Palmer-에머슨-레이크-앤-파머--Brain-Salad-Surgery-A급-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, corporatefinancethecoreglobaledition]
----
 
 ## 기업재무의 핵심
 

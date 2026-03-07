@@ -1,11 +1,10 @@
 ---
-title: "datacenterhandbook  | Designing Data-Intensive Applications: The Big Ideas Behind Reliable 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'datacenterhandbook  | Designing Data-Intensive Applications: The Big Ideas Behind Reliable 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "datacenterhandbook--Designing-DataIntensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintainable-Systems-Oreilly--Associates-Inc-"
-author: Moon
+slug: 'datacenterhandbook--Designing-DataIntensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintainable-Systems-Oreilly--Associates-Inc-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, datacenterhandbook]
----
 
 ## 데이터센터 핸드북: 데이터센터 운영에 필수적인 가이드
 

@@ -1,11 +1,10 @@
 ---
-title: "feedbackcontrolofdynamicsystems  | Feedback Control of Dynamic Systems(Global Edition), Pearson  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'feedbackcontrolofdynamicsystems  | Feedback Control of Dynamic Systems(Global Edition), Pearson  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "feedbackcontrolofdynamicsystems--Feedback-Control-of-Dynamic-SystemsGlobal-Edition-Pearson-"
-author: Moon
+slug: 'feedbackcontrolofdynamicsystems--Feedback-Control-of-Dynamic-SystemsGlobal-Edition-Pearson-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, feedbackcontrolofdynamicsystems]
----
 
 **역학 시스템의 피드백 제어**
 
