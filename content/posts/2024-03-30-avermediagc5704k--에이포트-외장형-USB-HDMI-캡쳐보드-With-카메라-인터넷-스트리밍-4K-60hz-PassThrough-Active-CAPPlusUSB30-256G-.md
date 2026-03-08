@@ -3,8 +3,9 @@ title: 'avermediagc5704k  [10~50대 여성추천]  에이포트 외장형 USB HD
 date: 2024-03-30
 slug: 'avermediagc5704k--에이포트-외장형-USB-HDMI-캡쳐보드-With-카메라-인터넷-스트리밍-4K-60hz-PassThrough-Active-CAPPlusUSB30-256G-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, avermediagc5704k]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'avermediagc5704k']
+---
 
 **AverMedia GC570 4K Capture Card: 스트리밍과 레코딩을 위한 완벽한 선택**
 

@@ -3,8 +3,9 @@ title: 'craftcocktails  | 크래프터 마인드 W 프레스티지 Tce MIND W PR
 date: 2024-03-30
 slug: 'craftcocktails--크래프터-마인드-W-프레스티지-Tce-MIND-W-PRESTIGE-ROSETce-VVS-OM바디무상-셋업-쿠폰구성품-9종-내추럴-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, craftcocktails]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'craftcocktails']
+---
 
 **Craftcocktails: 칵테일 애호가를 위한 편리한 솔루션**
 

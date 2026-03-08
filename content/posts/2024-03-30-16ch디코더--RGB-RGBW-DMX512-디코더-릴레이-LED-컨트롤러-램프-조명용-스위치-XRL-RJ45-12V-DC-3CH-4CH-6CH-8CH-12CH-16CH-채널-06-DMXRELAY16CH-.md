@@ -3,8 +3,9 @@ title: '16ch디코더  [10~50대 여성추천]  RGB RGBW DMX512 디코더 릴레
 date: 2024-03-30
 slug: '16ch디코더--RGB-RGBW-DMX512-디코더-릴레이-LED-컨트롤러-램프-조명용-스위치-XRL-RJ45-12V-DC-3CH-4CH-6CH-8CH-12CH-16CH-채널-06-DMXRELAY16CH-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 16ch디코더]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '16ch디코더']
+---
 
 **16채널 디코더: 고해상도 감시 시스템을 위한 탁월한 선택**
 

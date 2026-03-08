@@ -3,8 +3,9 @@ title: 'campbellessentialbiologywithphysiology6thedition  | 휴럼 페놀리아7
 date: 2024-03-30
 slug: 'campbellessentialbiologywithphysiology6thedition--휴럼-페놀리아75-유기농-엑스트라버진-올리브오일-이탈리아-하이드록시티로솔-30정-1개-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, campbellessentialbiologywithphysiology6thedition]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'campbellessentialbiologywithphysiology6thedition']
+---
 
 **Essential Biology with Physiology: 6th Edition by Campbell**
 

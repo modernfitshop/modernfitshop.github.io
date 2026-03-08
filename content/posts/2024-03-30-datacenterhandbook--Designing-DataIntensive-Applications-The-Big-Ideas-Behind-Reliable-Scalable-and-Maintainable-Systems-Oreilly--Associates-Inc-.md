@@ -3,8 +3,9 @@ title: 'datacenterhandbook  | Designing Data-Intensive Applications: The Big Ide
 date: 2024-03-30
 slug: 'datacenterhandbook--Designing-DataIntensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintainable-Systems-Oreilly--Associates-Inc-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, datacenterhandbook]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'datacenterhandbook']
+---
 
 ## 데이터센터 핸드북: 데이터센터 운영에 필수적인 가이드
 

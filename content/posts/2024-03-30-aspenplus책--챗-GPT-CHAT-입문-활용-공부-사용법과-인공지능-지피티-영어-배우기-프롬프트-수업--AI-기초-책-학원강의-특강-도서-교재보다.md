@@ -3,8 +3,9 @@ title: 'aspenplus책  | 챗 GPT CHAT 입문 활용 공부 사용법과 인공지
 date: 2024-03-30
 slug: 'aspenplus책--챗-GPT-CHAT-입문-활용-공부-사용법과-인공지능-지피티-영어-배우기-프롬프트-수업--AI-기초-책-학원강의-특강-도서-교재보다'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, aspenplus책]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'aspenplus책']
+---
 
 ## 아스펜 플러스: 강력한 화학 프로세스 시뮬레이션 도구
 

@@ -3,8 +3,9 @@ title: '4khdmi캡쳐보드케이블형usbc타입닌텐도스위치ps노트북게
 date: 2024-03-30
 slug: '4khdmi캡쳐보드케이블형usbc타입닌텐도스위치ps노트북게임방송영상녹화cctv뷰어--애니포트-USB-30-TO-HDMI-4K-60Hz-영상-캡쳐보드-APHDC4K-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 4khdmi캡쳐보드케이블형usbc타입닌텐도스위치ps노트북게임방송영상녹화cctv뷰어]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '4khdmi캡쳐보드케이블형usbc타입닌텐도스위치ps노트북게임방송영상녹화cctv뷰어']
+---
 
 **닌텐도 스위치, PS5, 노트북용 4K HDMI 캡처 보드**
 

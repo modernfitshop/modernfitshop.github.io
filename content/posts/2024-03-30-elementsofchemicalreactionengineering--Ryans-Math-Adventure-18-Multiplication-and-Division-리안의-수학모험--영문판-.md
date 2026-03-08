@@ -1,10 +1,11 @@
 ---
-title: 'elementsofchemicalreactionengineering  | Ryan''s Math Adventure 18 Multiplication and Division [리안의 수학모험 - 영문판 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
+title: 'elementsofchemicalreactionengineering  | Ryan''''s Math Adventure 18 Multiplication and Division [리안의 수학모험 - 영문판 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
 slug: 'elementsofchemicalreactionengineering--Ryans-Math-Adventure-18-Multiplication-and-Division-리안의-수학모험--영문판-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, elementsofchemicalreactionengineering]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'elementsofchemicalreactionengineering']
+---
 
 **화학 반응 공학의 필수 서적: Elements of Chemical Reaction Engineering**
 

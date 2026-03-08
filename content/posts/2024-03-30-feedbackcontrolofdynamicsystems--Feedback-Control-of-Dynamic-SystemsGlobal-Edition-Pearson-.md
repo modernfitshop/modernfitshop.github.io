@@ -3,8 +3,9 @@ title: 'feedbackcontrolofdynamicsystems  | Feedback Control of Dynamic Systems(G
 date: 2024-03-30
 slug: 'feedbackcontrolofdynamicsystems--Feedback-Control-of-Dynamic-SystemsGlobal-Edition-Pearson-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, feedbackcontrolofdynamicsystems]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'feedbackcontrolofdynamicsystems']
+---
 
 **역학 시스템의 피드백 제어**
 

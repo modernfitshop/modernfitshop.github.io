@@ -3,8 +3,9 @@ title: 'blackmagicultrastudio  [10~50대 여성추천]  오디언트 iD4 MK2 오
 date: 2024-03-30
 slug: 'blackmagicultrastudio--오디언트-iD4-MK2-오디오-인터페이스-USB-C-to-A-케이블포함-ID4-MK2-USB-C-to-A-케이블-리뷰쿠폰-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, blackmagicultrastudio]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'blackmagicultrastudio']
+---
 
 **블랙매직 울트라스튜디오: 모든 크리에이터를 위한 궁극적인 비디오 인터페이스**
 

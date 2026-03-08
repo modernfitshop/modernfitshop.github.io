@@ -3,8 +3,9 @@ title: 'atemtelevisionstudiopro  [10~50대 여성추천]  [정품] 포커스라�
 date: 2024-03-30
 slug: 'atemtelevisionstudiopro--정품-포커스라이트-Scarlett-solo-studio-스칼렛-솔로-스튜디오-3세대팝필터관절스탠드-오디오-인터페이스-패키지-Scarlett'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, atemtelevisionstudiopro]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'atemtelevisionstudiopro']
+---
 
 **Atem Television Studio Pro: 업계 최고의 스트리밍 솔루션**
 
